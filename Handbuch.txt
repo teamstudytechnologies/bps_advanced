@@ -1,0 +1,16 @@
+1. Startfenster:
+- Account erstellen (Wird in Datenbank erstellt)
+- einloggen (ruft Infos aus DB ab)
+
+2. Als Student einloggen:
+- Statusinformation BPS Anmeldung / Betreuer Zuweisung
+- Falls BPS nicht eingetragen --> anmelden
+(Seite BPS Anmelden wird aufgerufen --> Daten werden in DB gespeichert)
+- Betreuer kontaktieren --> Button
+- Bericht upload in Datenbank (Professor kann Bericht einsehen)
+
+3. Als Prof. einloggen:
+- Tabelle der Studierenden --> kann sich für jemanden eintragen
+(wird in DB hinterlegt)
+- Studierenden kontaktieren Button -> Drop-Down Menü mit studierenden die kontaktiert werden, Bericht über DB zugeschickt
+- Besuchsbericht Button (wird in DB hinterlegt)
